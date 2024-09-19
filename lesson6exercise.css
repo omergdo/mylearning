@@ -1,0 +1,21 @@
+ 
+    p {
+      font-family: Arial;
+  
+  }
+  .title-1 {
+      font-weight: bold;
+  }
+
+  .title-2 {
+      color: gray;
+      font-weight: normal;
+  }
+
+  .title-4 {
+      padding-right: 1px;
+  }
+
+  .title-5 {
+      color: blue;
+  }
